@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Restaurant Reservation System.<br>👯 I’m looking to collaborate on Restaurant Reservation System.<br>🌱 I’m currently learning Nodejs and NextJs.<br>💬 Ask me about Frontend React Development.<br>📫 How to reach me archit.srivastava2311@gmail.com<br>👨‍💻 All of my projects are available at https://archit2311.github.io/portfolio/<br>📝 Leetcode profile https://leetcode.com/Archit_Srivastava/<br>⚡ Fun fact I think I can do everything<br><br><br>
+🔭 I’m currently working on Restaurant Reservation System.<br>👯 I’m looking to collaborate on Restaurant Reservation System.<br>🌱 I’m currently learning NextJs.<br>💬 Ask me about Frontend React Development.<br>📫 How to reach me archit.srivastava2311@gmail.com<br>👨‍💻 All of my projects are available at https://archit2311.github.io/portfolio/<br>📝 Leetcode profile https://leetcode.com/Archit_Srivastava/<br>⚡ Fun fact I think I can do everything<br><br><br>
 
 
 ## 🌐 Socials:
